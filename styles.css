@@ -1,0 +1,29 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box; 
+}
+
+body{
+    width:100vw;
+    height:100hv;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#square{
+    width:800px;
+    height:800px;
+    border: 1px solid black;
+}
+
+#info{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 25px;
+}
+#timer{
+    
+}
